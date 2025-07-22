@@ -5,3 +5,6 @@
 [submodule "SplitWise"]
 	path = SplitWise
 	url = https://github.com/cran/SplitWise
+[submodule "geeLite"]
+	path = geeLite
+	url = https://github.com/cran/geeLite
